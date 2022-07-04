@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.Properties;
 
+//hello
+
 public class ReadProperty {
 	
 	static FileInputStream   file;
